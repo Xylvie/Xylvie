@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Web Developer & Python Enthusiast** from the Philippines, specializing in building practical web applications and desktop solutions that solve real-world problems.  
 
-I combine **Laravel**, **React + Inertia**, **Blade**, and **Python desktop apps** to create seamless workflows — from APIs to dashboards to desktop integrations.  
+I combine **Laravel**, **React + Inertia**, **Blade**, and **Python desktop apps** to create seamless workflows from APIs to dashboards to desktop integrations.  
 
 ---
 
