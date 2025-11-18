@@ -39,7 +39,7 @@ Check out my work here: [https://jneri.site](https://jneri.site)
 
 ## 📫 Contact Me
 
-- Email: `your-email@example.com`  
+- Email: `irenjosh121001@gmail.com`  
 - LinkedIn: [Joshua Neri](https://www.linkedin.com/in/joshuaneri)  
 - Facebook: [Joshua Neri](https://www.facebook.com/Neri.Josh)  
 
